@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=marcotohom&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcotohom&theme=dark&hide_border=true&border_radius=7&locale=es)](https://git.io/streak-stats)
 
 ### 📫 ¿Dónde encontrarme?
 
