@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/marcotohom"><img src="https://api.daily.dev/devcards/v2/wwSlBvrrgVb8O081nDROb.png?type=default&r=3f2" width="356" alt="Marco Lares's Dev Card"/></a>
 
 ### 📈 Mis estadísticas de GitHub
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=marcotohom&show_icons=true&theme=radical&hide=prs)
